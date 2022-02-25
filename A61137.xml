@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulatory poem written by J. S. And occasionally published on the 23d. of April, 1685: being the Coronation-Day of their Most Sacred Majesties, &amp;c.</title>
+            <author>I. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61137</idno>
+            <idno type="STC">Wing S49A</idno>
+            <idno type="STC">ESTC R219785</idno>
+            <idno type="EEBO-CITATION">99831232</idno>
+            <idno type="PROQUEST">99831232</idno>
+            <idno type="VID">35695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2040:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulatory poem written by J. S. And occasionally published on the 23d. of April, 1685: being the Coronation-Day of their Most Sacred Majesties, &amp;c.</title>
+                  <author>I. S.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "When mournful Britain droop'd her conquering head,".</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:35695:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A Congratulatory POEM</head>
+            <byline>Written by <hi>J. S.</hi>
+            </byline>
+            <head type="sub">And Occaſionally Publiſhed on <date>the 23d. of <hi>April,</hi> 1685. being the CORONATION-Day of their Moſt Sacred Majeſties,</date> 
+               <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>WHen mournful <hi>Britain</hi> droop'd her Conquering Head,</l>
+               <l>And Gloomy Sorrow had her Face o're ſpread,</l>
+               <l>When Peals of Sighs diſturb'd the gentle Air,</l>
+               <l>And Univerſal Groans preſag'd diſpair:</l>
+               <lg>
+                  <l>In that croſs Star'd, in that diſaſterous day,</l>
+                  <l>When Heav'n debated, when great <hi>Caeſar</hi> lay</l>
+                  <l>Strugling with Fate, that ſcarcely durſt obey:</l>
+               </lg>
+               <l>And by his conſtant Courage had o'recome,</l>
+               <l>All Deaths attacts had not Eternal doom</l>
+               <l>Urg'd on his trembling darted hand and giv'n</l>
+               <l>(Haſty to make him Habitant of Heaven)</l>
+               <l>Commiſſion to tranſlate him to a Throne,</l>
+               <l>More Glorious, Bright, and laſting than his own:</l>
+               <l>In that ſad day Clouding our Blooming Bliſs,</l>
+               <l>The Grave had ſwallowed all our Happineſs,</l>
+               <l>Had not moſt Mighty King the Powers Divine,</l>
+               <l>Preſerv'd the Glory of the Royal Line:</l>
+               <l>'Twas you Great Sir, our Brighter Riſing Star,</l>
+               <l>Our Peaceful Monarch, and our God of War.</l>
+               <l>That Uneclips'd our Night, and with a Ray</l>
+               <l>Of mildeſt Majeſty reſtor'd the Day:</l>
+               <l>Diſpell'd thoſe Fears, that riſing to a heigth,</l>
+               <l>Had damp'd the Nations Genus in her Flight:</l>
+               <l>So in <hi>Arabias</hi> ſpicy Fragrant Field,</l>
+               <l>The ſetting <hi>Phoenix</hi> does a <hi>Phoenix</hi> yield:</l>
+               <l>To wing the Buxom Air, whilſt all the Choire</l>
+               <l>Fly round her, and with eager Eyes admire;</l>
+               <l>Their loſs repair'd, and Warble out their Joy,</l>
+               <l>In Tunefull Natures pleaſing Melody.</l>
+               <l>No ſooner was it through the Nation known,</l>
+               <l>That You Great Prince had fill'd the Awfull Throne</l>
+               <l>(Yours due by Birth, and yet deſerv'd by Fame,</l>
+               <l>Of Glorious Actions, that muſt Crown Your Name</l>
+               <l>Till time ſhall be no more) but from each Breaſt,</l>
+               <l>(With faded Lawrells) wither'd Grief made haſt:</l>
+               <l>Mending her heavy pace urg'd on ſhe hies</l>
+               <l>To ſorrows Region whilſt our Early Joys,</l>
+               <l>Spring freſh in every Loyal Heart and there</l>
+               <l>Baniſh ſad thoughts that Image of diſpair,</l>
+               <l>Nor ebb, nor ſtand ye ſtill but ſtrongly Flow,</l>
+               <l>High as the Bars of Life will let them go:</l>
+               <l>The Muſes that in mournfull numbers ſung,</l>
+               <l>Their Harps have (now) to ſtrains of Triumph ſtrung,</l>
+               <l>On the <hi>Theorbo</hi> louder than before,</l>
+               <l>Reſolving to be heard from Shore to Shore.</l>
+               <l>With ſweet Concordance diſcord to expell,</l>
+               <l>From Mortal Minds, which makes their thoughts Rebell;</l>
+               <l>'Gainſt Reaſons Power to Charm the teſty bold,</l>
+               <l>Calm the Rough Soul, and Rug<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Nature mould:</l>
+               <l>As <hi>Orpheus</hi> once Chief of th' <hi>A<gap reason="illegible" extent="4+ letters">
+                        <desc>••••…</desc>
+                     </gap>
+                  </hi> Wood,</l>
+               <l>Chain'd with his Voice <hi>Araxis</hi> Rapid Flood.</l>
+               <l>The Gouty Mountains ſtagger from their ſeat,</l>
+               <l>And Rocks to follow, as he made retreat;</l>
+               <l>The Lyon Nobly bold, forgot his Rage,</l>
+               <l>And Tameleſs Tygers thirſt of Slaughter ſwage:</l>
+               <l>Whilſt liſt'ning Round him, the Wood Rovers ſtood,</l>
+               <l>Harmleſs and Mild forgetting thoughts of Blood.</l>
+               <lg>
+                  <l>This Sacred Numbers had the Power to do</l>
+                  <l>If Fames Record be credited as true,</l>
+                  <l>But how much more a Muſe Inſpir'd by you.</l>
+               </lg>
+               <l>Favorite of Heav'n, whom Guardian Angels keep;</l>
+               <l>Thoſe Eyes watch you that Strangers are to ſleep;</l>
+               <l>Thoſe out-ſpread Wings a Shady covering make</l>
+               <l>(The Storms of Fate to diſſipate and break)</l>
+               <l>On whom th' Immortal Rod, what leſs can be,</l>
+               <l>To the Vicegerent of a Deity;</l>
+               <l>On whom Eternal Providence does wait,</l>
+               <l>To Crown him with a laſting happy State.</l>
+               <l>That Providence in greateſt danger ſeen,</l>
+               <l>That Providence, that always ſtep'd between;</l>
+               <l>When Low'ring Storms preſag'd a danger near,</l>
+               <l>Fearful for him, that ne're cou'd ſtoop to fear.</l>
+               <lg>
+                  <l>Weighing the great event how Heav'n inclin'd</l>
+                  <l>To make (as everlaſtingly deſign'd)</l>
+                  <l>Mankinds delight the ruler of Mankind)</l>
+               </lg>
+               <l>How vainly then did Mortal Men agree,</l>
+               <l>In oppoſition to Heav'ns great Decree;</l>
+               <l>Boldly attempting to ſubvert a State,</l>
+               <l>Unalt'rably fix'd by Everlaſting Fate.</l>
+               <l>A Fate, Pale, envy ſunk beneath; no ſpoile,</l>
+               <l>Her Breath cou'd make the Genus of our Iſle;</l>
+               <l>Like Chryſtall purg'd off the poluting ſtain,</l>
+               <l>And ſoon its Luſtre reaſſum'd again.</l>
+               <l>But thoſe hot days let dark Oblivion ſeize,</l>
+               <l>Thoſe days that brought that feavouriſh diſeaſe;</l>
+               <l>Into the minds of Men to taint the Soul,</l>
+               <l>Blot them Immortal Fame out of thy Role:</l>
+               <l>Leaſt Unborn Babes their Parents Raſhneſs blame,</l>
+               <l>When you to after Ages ſhall Proclaim:</l>
+               <l>Loud as a Fire-ſtorm'd Cloud our Monarchs Name.</l>
+               <l>And orderly Rank all his Glorious Deeds,</l>
+               <l>Brighter than Crowns adorning Royal Heads.</l>
+               <l>But ſtay—the Triumph comes—the dazling ſight,</l>
+               <l>Beams Round about unuſual cheering Light.</l>
+               <l>So when <hi>Aurora</hi> does her Gates unfold,</l>
+               <l>SOI. Tips the Clouds with Purple, and with Gold:</l>
+               <l>
+                  <hi>Britains</hi> Sole Glory in one place is met,</l>
+               <l>To pay due Homage at Her Princes feet:</l>
+               <l>And place the Diadem where it ſhould be,</l>
+               <l>Crowns dimly Shine undect with Majeſty:</l>
+               <l>The Beauty and the Wonder of her Sex,</l>
+               <l>As in deſert in Royalty partakes;</l>
+               <l>The dear ſelf of a Monarchs Glory ſhares,</l>
+               <l>Gracing the Glittering Ornament she wares:</l>
+               <l>Hail Royal Pair may Joys paſt thought await,</l>
+               <l>Your Morning wakes when ſofteſt slumbers bate.</l>
+               <l>And all the Bleſſings Heav'n has ſtor'd above,</l>
+               <l>In the wide Store-houſe of Eternal Love:</l>
+               <l>Like <hi>Aprils</hi> Morning Dew deſcend upon,</l>
+               <l>Your Royal Heads, and long Eſtabliſh'd Throne.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. W.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
